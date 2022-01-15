@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/pindr/ultralight-quick-start/build/CMakeFiles/UltralightSDK"
+		},
+		{
+			"file" : "C:/Users/pindr/ultralight-quick-start/build/CMakeFiles/792b376b9ff6c523704939f1407008b0/UltralightSDK.rule"
+		},
+		{
+			"file" : "C:/Users/pindr/ultralight-quick-start/build/CMakeFiles/11a460534445fca1654a03e0fd1c415d/UltralightSDK-complete.rule"
+		},
+		{
+			"file" : "C:/Users/pindr/ultralight-quick-start/build/CMakeFiles/d2f3c62ac6d5bdf20b49a149d0afb177/UltralightSDK-install.rule"
+		},
+		{
+			"file" : "C:/Users/pindr/ultralight-quick-start/build/CMakeFiles/d2f3c62ac6d5bdf20b49a149d0afb177/UltralightSDK-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/pindr/ultralight-quick-start/build/CMakeFiles/d2f3c62ac6d5bdf20b49a149d0afb177/UltralightSDK-download.rule"
+		},
+		{
+			"file" : "C:/Users/pindr/ultralight-quick-start/build/CMakeFiles/d2f3c62ac6d5bdf20b49a149d0afb177/UltralightSDK-update.rule"
+		},
+		{
+			"file" : "C:/Users/pindr/ultralight-quick-start/build/CMakeFiles/d2f3c62ac6d5bdf20b49a149d0afb177/UltralightSDK-patch.rule"
+		},
+		{
+			"file" : "C:/Users/pindr/ultralight-quick-start/build/CMakeFiles/d2f3c62ac6d5bdf20b49a149d0afb177/UltralightSDK-configure.rule"
+		},
+		{
+			"file" : "C:/Users/pindr/ultralight-quick-start/build/CMakeFiles/d2f3c62ac6d5bdf20b49a149d0afb177/UltralightSDK-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"UltralightSDK"
+		],
+		"name" : "UltralightSDK"
+	}
+}

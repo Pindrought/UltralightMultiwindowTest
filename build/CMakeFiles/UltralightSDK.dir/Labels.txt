@@ -1,0 +1,13 @@
+# Target labels
+ UltralightSDK
+# Source files and their labels
+C:/Users/pindr/ultralight-quick-start/build/CMakeFiles/UltralightSDK
+C:/Users/pindr/ultralight-quick-start/build/CMakeFiles/792b376b9ff6c523704939f1407008b0/UltralightSDK.rule
+C:/Users/pindr/ultralight-quick-start/build/CMakeFiles/11a460534445fca1654a03e0fd1c415d/UltralightSDK-complete.rule
+C:/Users/pindr/ultralight-quick-start/build/CMakeFiles/d2f3c62ac6d5bdf20b49a149d0afb177/UltralightSDK-install.rule
+C:/Users/pindr/ultralight-quick-start/build/CMakeFiles/d2f3c62ac6d5bdf20b49a149d0afb177/UltralightSDK-mkdir.rule
+C:/Users/pindr/ultralight-quick-start/build/CMakeFiles/d2f3c62ac6d5bdf20b49a149d0afb177/UltralightSDK-download.rule
+C:/Users/pindr/ultralight-quick-start/build/CMakeFiles/d2f3c62ac6d5bdf20b49a149d0afb177/UltralightSDK-update.rule
+C:/Users/pindr/ultralight-quick-start/build/CMakeFiles/d2f3c62ac6d5bdf20b49a149d0afb177/UltralightSDK-patch.rule
+C:/Users/pindr/ultralight-quick-start/build/CMakeFiles/d2f3c62ac6d5bdf20b49a149d0afb177/UltralightSDK-configure.rule
+C:/Users/pindr/ultralight-quick-start/build/CMakeFiles/d2f3c62ac6d5bdf20b49a149d0afb177/UltralightSDK-build.rule

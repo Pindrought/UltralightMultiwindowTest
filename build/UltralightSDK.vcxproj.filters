@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\pindr\ultralight-quick-start\build\CMakeFiles\d2f3c62ac6d5bdf20b49a149d0afb177\UltralightSDK-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\pindr\ultralight-quick-start\build\CMakeFiles\d2f3c62ac6d5bdf20b49a149d0afb177\UltralightSDK-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\pindr\ultralight-quick-start\build\CMakeFiles\d2f3c62ac6d5bdf20b49a149d0afb177\UltralightSDK-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\pindr\ultralight-quick-start\build\CMakeFiles\d2f3c62ac6d5bdf20b49a149d0afb177\UltralightSDK-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\pindr\ultralight-quick-start\build\CMakeFiles\d2f3c62ac6d5bdf20b49a149d0afb177\UltralightSDK-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\pindr\ultralight-quick-start\build\CMakeFiles\d2f3c62ac6d5bdf20b49a149d0afb177\UltralightSDK-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\pindr\ultralight-quick-start\build\CMakeFiles\d2f3c62ac6d5bdf20b49a149d0afb177\UltralightSDK-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\pindr\ultralight-quick-start\build\CMakeFiles\11a460534445fca1654a03e0fd1c415d\UltralightSDK-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\pindr\ultralight-quick-start\build\CMakeFiles\792b376b9ff6c523704939f1407008b0\UltralightSDK.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\pindr\ultralight-quick-start\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\pindr\ultralight-quick-start\build\CMakeFiles\UltralightSDK" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{5C51C701-0A07-3F57-A1FD-CF8E0CEDCED2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
